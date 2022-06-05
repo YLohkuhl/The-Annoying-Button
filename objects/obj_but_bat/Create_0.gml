@@ -1,0 +1,1 @@
+textobj = obj_text3;

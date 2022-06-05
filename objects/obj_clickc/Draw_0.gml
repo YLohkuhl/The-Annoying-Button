@@ -1,0 +1,1 @@
+draw_text(obj_clickC.x, obj_clickC.y, "Click Count: " + string(clickCount));

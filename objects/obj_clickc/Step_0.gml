@@ -1,0 +1,1 @@
+clickCount = obj_dupEH_but_inf1.image_index;

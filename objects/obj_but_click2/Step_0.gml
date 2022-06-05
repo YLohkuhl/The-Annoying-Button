@@ -1,0 +1,1 @@
+if image_index >= 77 then room_goto(click_madness_3);

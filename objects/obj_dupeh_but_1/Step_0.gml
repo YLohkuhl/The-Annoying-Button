@@ -1,0 +1,1 @@
+if image_index >= 38 then room_goto(duplication_enhanced);

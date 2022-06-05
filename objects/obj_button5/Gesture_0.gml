@@ -1,0 +1,1 @@
+textobj.image_index = textobj.image_index + 1

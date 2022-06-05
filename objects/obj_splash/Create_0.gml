@@ -1,0 +1,1 @@
+TransitionStart(main_menu, sqSplashOut, sqSplashIn);

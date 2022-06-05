@@ -1,0 +1,1 @@
+if image_index >= 155 then room_goto(duplication_enhanced_inf);

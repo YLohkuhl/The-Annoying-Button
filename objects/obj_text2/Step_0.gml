@@ -1,0 +1,1 @@
+if image_index == 16 then room_goto(click_madness);

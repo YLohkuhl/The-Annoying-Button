@@ -1,0 +1,1 @@
+if image_index >= 25 then TransitionStart(main_menu, sqFadeOut, sqFadeIn);

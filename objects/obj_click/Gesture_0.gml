@@ -1,0 +1,1 @@
+obj_but_tophat.visible = true;
